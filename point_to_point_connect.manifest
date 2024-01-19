@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Nicolas Ryjoukhine",
+	"description":	{
+		"":	"This script draws lines from point i to point i+1, given in the form of a list"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
